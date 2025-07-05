@@ -1,3 +1,0 @@
-git add .
-git commit -m "Move pom.xml to project root"
-git push origin main
